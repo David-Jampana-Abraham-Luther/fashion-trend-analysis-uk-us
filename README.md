@@ -18,11 +18,6 @@ Python, Pandas, Matplotlib, Seaborn, Jupyter Notebook
 ## 📊 Visualizations
 Includes bar charts, heatmaps, and trend lines to support data-driven insights.
 
-## 📂 Structure
-- `data/` – Raw and sample data
-- `notebooks/` – Jupyter notebooks with full analysis
-- `scripts/` – Python code for data prep and visualization
-- `outputs/` – Charts and final results
 
 ## 📬 Contact
 Created by David Jampana Abraham Luther — feel free to reach out or connect!
